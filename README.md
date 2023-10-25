@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankan</h1>
 <h3 align="center">A passionate frontend developer,Wordpress developer and Programmer from India</h3>
 
-- 🔭 I’m currently working on **Social Media Website**
+- 🔭 I’m currently working on **Ecommerece Website for Intra college commerce**
 
 - 🌱 I’m currently learning **React,Wordpress**
 
